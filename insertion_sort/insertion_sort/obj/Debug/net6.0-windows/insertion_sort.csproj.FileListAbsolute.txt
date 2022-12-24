@@ -1,0 +1,17 @@
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\insertion_sort.exe
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\insertion_sort.deps.json
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\insertion_sort.runtimeconfig.json
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\insertion_sort.dll
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\ref\insertion_sort.dll
+D:\dasd\insertion_sort\insertion_sort\bin\Debug\net6.0-windows\insertion_sort.pdb
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.csproj.AssemblyReference.cache
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.Form1.resources
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.csproj.GenerateResource.cache
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.AssemblyInfoInputs.cache
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.AssemblyInfo.cs
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.csproj.CoreCompileInputs.cache
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.dll
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\ref\insertion_sort.dll
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.pdb
+D:\dasd\insertion_sort\insertion_sort\obj\Debug\net6.0-windows\insertion_sort.genruntimeconfig.cache

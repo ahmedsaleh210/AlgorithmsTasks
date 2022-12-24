@@ -1,0 +1,11 @@
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\bin\Debug\KruskalAlgorithm.exe.config
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\bin\Debug\KruskalAlgorithm.exe
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\bin\Debug\KruskalAlgorithm.pdb
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csproj.AssemblyReference.cache
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.Form1.resources
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.Properties.Resources.resources
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csproj.GenerateResource.cache
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.csproj.CoreCompileInputs.cache
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.exe
+D:\dasd\KruskalAlgorithm\KruskalAlgorithm\obj\Debug\KruskalAlgorithm.pdb
