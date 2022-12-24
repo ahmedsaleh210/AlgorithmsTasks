@@ -1,4 +1,4 @@
-# Here is Example for programs
+# Here is Examples for programs
 
 ## Instertion  Sort:
 <img width="221" alt="2022-12-24_104127" src="https://user-images.githubusercontent.com/96204940/209428141-30bba7b0-2463-4c9e-87e1-6722ba195107.png">
